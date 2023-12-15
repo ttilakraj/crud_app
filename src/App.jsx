@@ -1,4 +1,4 @@
-/* import React, { useState } from 'react';
+import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Login from './Login';
 import Register from './Register';
@@ -40,11 +40,11 @@ function App() {
 }
 
 export default App;
- */
+ 
 
 
 
-
+/*
 import React, { useEffect, useState } from 'react';
 import mongoose from 'mongoose';
 
@@ -97,3 +97,4 @@ function App() {
 }
 
 export default App;
+*/
